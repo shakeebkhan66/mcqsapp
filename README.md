@@ -20,6 +20,6 @@ samples, guidance on mobile development, and a full API reference.
   
   
 
-<img src ="https://user-images.githubusercontent.com/73787635/98470978-f6c42880-220a-11eb-8dac-233e6aefeda2.gif" width = "800" height="950"/>
+(https://user-images.githubusercontent.com/73787635/98470978-f6c42880-220a-11eb-8dac-233e6aefeda2.gif"
 
 
